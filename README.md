@@ -57,7 +57,7 @@ Currently LOL has sole access to the custody platform for these wallets. We are 
 party (not LOL) for long-term administration. Please reach out directly if you have a sustainable solution for custody
 and automation.
 
-LOL will mark the Router address as a “CommunityWallet” on chain. By that we mean that we will only disburse funds after polling the community. Specifically, funds will be transferred to another Slow Wallet if 2/3 of validators in any epoch approve (by voting power). By the same vote mechanism, if a validator set decides to sunset this account for any reason, we will oblige.
+LOL will mark the Router address as a “CommunityWallet” on chain. By that we mean that we will only disburse funds after polling the community. Specifically, funds will be transferred to another Slow Wallet if 2/3 of validators in any epoch approve (by voting power). By the same vote mechanism, if a validator set decides to sunset this account (burn values and make inaccessible) for any reason, we will oblige.
 
 <h2>Disclaimer: </h2>
 
