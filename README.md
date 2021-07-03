@@ -45,7 +45,7 @@ Note to donors: There may be a scenario where a charity is incapable of claiming
 would be to assume it is unclaimed property, and it can be distributed pro-rata to the other wallets which have been
 claimed. Let's say April 2022 is the window for claiming it.
 
-<h2>Work in Progress (as of April 2021)</h2>
+<h2>Work in Progress (as of July 2021)</h2>
 
 For expediency this project was started without any automation (no smart contract) at and this list and distribution is
 manually administered by LOL LLC (a company involved in blockchain software development, including for 0L network). We
@@ -56,6 +56,8 @@ taking no fee on these.
 Currently LOL has sole access to the custody platform for these wallets. We are seeking to transfer that to a third
 party (not LOL) for long-term administration. Please reach out directly if you have a sustainable solution for custody
 and automation.
+
+LOL will only disburse funds in from the Router wallet after polling the community; funds will be transferred to another Slow Wallet only if 2/3 of nodes in any epoch validator set approve. Additionally if any epoch's validator set decides to sunset this account for any reason, we will oblige. To make these intentions clear, we will additionally mark this wallet as a “CommunityWallet” on chain.
 
 <h2>Disclaimer: </h2>
 
