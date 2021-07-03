@@ -57,7 +57,7 @@ Currently LOL has sole access to the custody platform for these wallets. We are 
 party (not LOL) for long-term administration. Please reach out directly if you have a sustainable solution for custody
 and automation.
 
-LOL will only disburse funds in from the Router wallet after polling the community; funds will be transferred to another Slow Wallet only if 2/3 of nodes in any epoch validator set approve. Additionally if any epoch's validator set decides to sunset this account for any reason, we will oblige. To make these intentions clear, we will additionally mark this wallet as a “CommunityWallet” on chain.
+LOL will mark the Router address as a “CommunityWallet” on chain. By that we mean that we will only disburse funds in from the Router wallet after polling the community. Funds will be transferred to another Slow Wallet only if 2/3 of nodes in any epoch validator set approve. Additionally if any epoch's validator set decides to sunset this account for any reason, we will oblige.
 
 <h2>Disclaimer: </h2>
 
