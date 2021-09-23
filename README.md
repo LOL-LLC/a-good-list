@@ -87,7 +87,7 @@ Address: BCA50D10041FA111D1B44181A264A599
     </td>
   </tr>
 
-    <tr>
+  <tr>
     <td>Action against hunger
     </td>
     <td>06697386CDDABB634CEB0572D4423E34
@@ -96,41 +96,11 @@ Address: BCA50D10041FA111D1B44181A264A599
       <p>1</p>
     </td>
   </tr>
-  
-      <tr>
-    <td>Open Society Foundations
-    </td>
-    <td>783590B8559522C7B105664FE5563AD0
-    </td>
-    <td>
-      <p>1</p>
-    </td>
-  </tr>
 
-   <tr>
+  <tr>
     <td>Acumen
     </td>
     <td>4858B43E3A68893B51AF12C6D6BB5FB0
-    </td>
-    <td>
-      <p>1</p>
-    </td>
-  </tr>
-  
-     <tr>
-    <td>BRAC
-    </td>
-    <td>C50E5252CDDD65785F038FF15FEC5D0A
-    </td>
-    <td>
-      <p>1</p>
-    </td>
-  </tr>
-  
-       <tr>
-    <td>International Rescue Committee
-    </td>
-    <td>CD68A370A556F784256F9D35597328E8
     </td>
     <td>
       <p>1</p>
@@ -146,7 +116,16 @@ Address: BCA50D10041FA111D1B44181A264A599
       <p>1</p>
     </td>
   </tr>
-
+  
+  <tr>
+    <td>BRAC
+    </td>
+    <td>C50E5252CDDD65785F038FF15FEC5D0A
+    </td>
+    <td>
+      <p>1</p>
+    </td>
+  </tr>
   <tr>
     <td>Care International
     </td>
@@ -218,6 +197,16 @@ Address: BCA50D10041FA111D1B44181A264A599
   </tr>
 
   <tr>
+    <td>Innovation Norway Humanitarian
+    </td>
+    <td>F9AE13D90338B5CA9B391B1626F0503D
+    </td>
+    <td>
+      <p>1</p>
+    </td>
+  </tr>
+  
+  <tr>
     <td>International Committee of the Red Cross (ICRC)
     </td>
     <td>424428DB94430AA85EA9723E6C503B95
@@ -228,15 +217,15 @@ Address: BCA50D10041FA111D1B44181A264A599
   </tr>
 
   <tr>
-    <td>Innovation Norway Humanitarian
+    <td>International Rescue Committee
     </td>
-    <td>F9AE13D90338B5CA9B391B1626F0503D
+    <td>CD68A370A556F784256F9D35597328E8
     </td>
     <td>
       <p>1</p>
     </td>
   </tr>
-
+ 
   <tr>
     <td>The Life You Can Save - 90/10 Fund
     </td>
@@ -267,7 +256,16 @@ Address: BCA50D10041FA111D1B44181A264A599
     </td>
   </tr>
 
-
+  <tr>
+    <td>Open Society Foundations
+    </td>
+    <td>783590B8559522C7B105664FE5563AD0
+    </td>
+    <td>
+      <p>1</p>
+    </td>
+  </tr>
+  
   <tr>
     <td>Oxfam
     </td>
