@@ -87,6 +87,56 @@ Address: BCA50D10041FA111D1B44181A264A599
     </td>
   </tr>
 
+    <tr>
+    <td>Action against hunger
+    </td>
+    <td>06697386CDDABB634CEB0572D4423E34
+    </td>
+    <td>
+      <p>1</p>
+    </td>
+  </tr>
+  
+      <tr>
+    <td>Open Society Foundations
+    </td>
+    <td>783590B8559522C7B105664FE5563AD0
+    </td>
+    <td>
+      <p>1</p>
+    </td>
+  </tr>
+
+   <tr>
+    <td>Acumen
+    </td>
+    <td>4858B43E3A68893B51AF12C6D6BB5FB0
+    </td>
+    <td>
+      <p>1</p>
+    </td>
+  </tr>
+  
+     <tr>
+    <td>BRAC
+    </td>
+    <td>C50E5252CDDD65785F038FF15FEC5D0A
+    </td>
+    <td>
+      <p>1</p>
+    </td>
+  </tr>
+  
+       <tr>
+    <td>International Rescue Committee
+    </td>
+    <td>CD68A370A556F784256F9D35597328E8
+    </td>
+    <td>
+      <p>1</p>
+    </td>
+  </tr>
+  
   <tr>
     <td>Amnesty International
     </td>
@@ -217,15 +267,6 @@ Address: BCA50D10041FA111D1B44181A264A599
     </td>
   </tr>
 
-  <tr>
-    <td>Omidyar Network
-    </td>
-    <td>AFCE2A63EA11B18EF0FFA2CCE639B261
-    </td>
-    <td>
-      <p>1</p>
-    </td>
-  </tr>
 
   <tr>
     <td>Oxfam
