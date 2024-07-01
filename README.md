@@ -48,16 +48,16 @@ claimed. Let's say April 2022 is the window for claiming it.
 <h2>Work in Progress (as of July 2021)</h2>
 
 For expediency this project was started without any automation (no smart contract) at and this list and distribution is
-manually administered by LOL LLC (a company involved in blockchain software development, including for 0L network). We
+manually administered by Water & Stone LLC (a company involved in blockchain software development, including for 0L network). We
 do not intend to operate this program indefinitely. Until the smart contracts are devolped formally donations are
-currently given to LOL, and we submit 0L "autopay" transactions on a monthly basis to the wallets on the list. LOL is
+currently given to Water & Stone, and we submit 0L "autopay" transactions on a monthly basis to the wallets on the list. Water & Stone is
 taking no fee on these.
 
-Currently LOL has sole access to the custody platform for these wallets. We are seeking to transfer that to a third
-party (not LOL) for long-term administration. Please reach out directly if you have a sustainable solution for custody
+Currently Water & Stone has sole access to the custody platform for these wallets. We are seeking to transfer that to a third
+party (not Water & Stone) for long-term administration. Please reach out directly if you have a sustainable solution for custody
 and automation.
 
-LOL will mark this address as a “CommunityWallet” on chain. By that we mean: 
+Water & Stone will mark this address as a “CommunityWallet” on chain. By that we mean: 
 - that we will only disburse funds after polling the community. 
 - funds will only be transferred to an 0L SlowWallet, which releases funds over time. 
 - we allow 2/3 of validators (by voting power) to vote to reject our transactions. 
